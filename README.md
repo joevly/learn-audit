@@ -7,3 +7,4 @@
 | 2026-05-29  | 2026-05-31 | Password Store                                                                            |Simple Smart Contract|   0 |   2 |   0 |   3 |   1 |   0 |
 | 2026-06-01  | 2026-06-06 | Puppy Raffle                                                                            |ERC-721 Standard Token|   0 |   3 |   2 |   1 |   7 |   2 |
 | 2026-06-07  | 2026-06-14 | TSwap Protocol                                                                            |ERC-20|   0 |   4 |   1 |   2 |   5 |   0 |
+| 2026-06-15  | 2026-06-24 | Thunder Loan                                                                            |ERC-20 (Flash Loan & UUPS)|   0 |   3 |   1 |   0 |  0 |   0 |
